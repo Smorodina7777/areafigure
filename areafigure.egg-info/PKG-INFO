@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: areafigure
+Version: 0.0.1
+Summary: A package to get area of figure
+Home-page: https://github.com/areafigure/homepage/
+Author: Elena Gorlanova
+Author-email: dima26031@yandex.ru
+Classifier: Programming Language :: Python :: 3.11.5
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Python Р±РёР±Р»РёРѕС‚РµРєР°, РєРѕС‚РѕСЂР°СЏ СѓРјРµРµС‚ РІС‹С‡РёСЃР»СЏС‚СЊ РїР»РѕС‰Р°РґСЊ РєСЂСѓРіР° РїРѕ СЂР°РґРёСѓСЃСѓ Рё С‚СЂРµСѓРіРѕР»СЊРЅРёРєР° РїРѕ С‚СЂРµРј СЃС‚РѕСЂРѕРЅР°Рј.
+Р’С‹С‡РёСЃР»РµРЅРёРµ РїР»РѕС‰Р°РґРё С„РёРіСѓСЂС‹ Р±РµР· Р·РЅР°РЅРёСЏ С‚РёРїР° С„РёРіСѓСЂС‹ РІ compile-time
+РџСЂРѕРІРµСЂСЏРµС‚, СЏРІР»СЏРµС‚СЃСЏ Р»Рё С‚СЂРµСѓРіРѕР»СЊРЅРёРє РїСЂСЏРјРѕСѓРіРѕР»СЊРЅС‹Рј.
