@@ -1,0 +1,1 @@
+from areafigure import Figure
